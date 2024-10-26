@@ -13,12 +13,11 @@ With this app, I can have the experience in the following areas:
 # Added Features
 
 * Bug fix
-* Handling shared URL from other applications
-* View free photos in [Unsplash] using [Unsplash API](https://unsplash.com/developers).
+* Handling shared URLs from other apps
+* View free photos in [Unsplash](https://unsplash.com/) using [Unsplash API](https://unsplash.com/developers)
 
 
 # License
 
-**Now in Android** is distributed under the terms of the Apache License (Version 2.0). See the
+This is distributed under the terms of the Apache License (Version 2.0). See the
 [license](LICENSE) for more information.
-# internal-only
